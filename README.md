@@ -33,3 +33,14 @@
   - npm: (Node Package Manager)
   ### Libraries:
    - require:
+   ### Frameworks:
+    - Frontend:
+     1. Bootstrap:
+     2. Foundation:
+     3. Materialize:
+     4. AngularJS:
+    - Backend:
+     1. Backbone:
+     2. Ember.js:
+     3. Express.js:
+     4. Sails:
