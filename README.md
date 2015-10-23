@@ -18,8 +18,24 @@
  - Bower:
  - Gulp:
  - LAMP:
+ LAMP es el acrónimo usado para describir un sistema de infraestructura de internet que usa las siguientes herramientas:
+
+    Linux, el sistema operativo; En algunos casos también se refiere a LDAP.
+    Apache, el servidor web;
+    MySQL/MariaDB, el gestor de bases de datos;
+    Perl, PHP, o Python, los lenguajes de programación.
+
  - WAMP:
+ WAMP es el acrónimo usado para describir un sistema de infraestructura de internet que usa las siguientes herramientas:
+
+    Windows, como sistema operativo;
+    Apache, como servidor web;
+    MySQL, como gestor de bases de datos;
+    PHP (generalmente), Perl, o Python, como lenguajes de programación.
+
  - XAMP:
+ XAMPP es un servidor independiente de plataforma, software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script: PHP y Perl. El nombre proviene del acrónimo de X (para cualquiera de los diferentes sistemas operativos), Apache, MySQL, PHP, Perl.
+
  - LEMP:
  - NOLEG:
 ## Amazon:
