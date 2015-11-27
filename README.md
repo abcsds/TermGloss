@@ -1,9 +1,13 @@
 # Glosario de Términos de cómputo en la nube
 ## General:
  - Cashflow: Flujo de efectivo: dinero.
- - Frontend:
- - Backend:
+ - FrontEnd: En diseño de software el front-end es la parte del software que interactua con el o los usuarios, siendo el responsable de
+   recolectar los datos de entrada del usuario, que pueden ser de muchas y variadas formas, y los tranforma ajustandolos a las 
+   especificaciones demandadas por el back-end.
+ - Backend: Es la parte que procesa la entrada desde el front-end, devolviendo generalmente una respuesta que el front-end recibe y expone al    usuario de una forma entendible para este. 
  - Workflow:
+ - Monolithic App:
+
 ## Workflow:
  - IDE:
  - Sublime:
